@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="05orders" />
+        <module name="04users" />
         <module name="Eureka" />
         <module name="provider" />
         <module name="consumer" />
